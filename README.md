@@ -4,7 +4,7 @@ This repository contains Shapefiles with street centerlines (traced with QGIS), 
 
 __Note: if you're interested in only using the data in this repository (instead of also editing and improving the Shapefiles), it might be easier to use the data published on the website of the [NYC Space/Time Directory](http://spacetime.nypl.org/#data-nyc-streets).__
 
-Note: `layers.json` is a copy from http://buildinginspector.nypl.org/layers.json, and contains metadata for each layer.
+Note: `layers.json` is a copy of data available in [Building Inspector](http://buildinginspector.nypl.org) and contains metadata for each layer of which Building Inspector has historical address data.
 
 ## Status
 
