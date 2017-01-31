@@ -59,7 +59,7 @@
   <projectlayers>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>86020170127140712003</id>
-      <datasource>/Users/bertspaan/code/etl-modules/etl-nyc-streets/data/860/860.shp</datasource>
+      <datasource>860.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
