@@ -12,3 +12,4 @@ Note: `layers.json` is a copy from http://buildinginspector.nypl.org/layers.json
 - [`859`](859): __Done__
 - [`1138`](1138): __In progress__
 - [`1142`](1142): __In progress__
+- [`1162`](1162): __In progress__
