@@ -22,3 +22,7 @@ Note: `layers.json` is a copy of data available in [Building Inspector](http://b
   - [Manhattan - Atlas 110. Vol. 2, 1903](http://maps.nypl.org/warper/layers/1142)
 - [`1162`](1162): __Done__
   - [Queens - Atlas 134. Vol. 2, 1915](http://maps.nypl.org/warper/layers/1162)
+- [`1035`](1035): __In progress__
+  - [Staten Island - Atlas of the city of New York, borough of Richmond (1917)](http://maps.nypl.org/warper/layers/1035)
+- [`883`](883): __In progress__
+  - [The Bronx - Atlas of borough of the Bronx (1921)](http://maps.nypl.org/warper/layers/883)
