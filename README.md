@@ -11,5 +11,5 @@ Note: `layers.json` is a copy of data available in [Building Inspector](http://b
 - [`860`](860): __Done__
 - [`859`](859): __Done__
 - [`1138`](1138): __In progress__
-- [`1142`](1142): __In progress__
+- [`1142`](1142): __Done__
 - [`1162`](1162): __Done__
