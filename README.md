@@ -8,8 +8,17 @@ Note: `layers.json` is a copy of data available in [Building Inspector](http://b
 
 ## Status
 
-- [`860`](860): __Done__
 - [`859`](859): __Done__
+  - [Manhattan - Maps of the city of New York, 1857](http://maps.nypl.org/warper/layers/859)
+- [`860`](860): __Done__
+  - [Brooklyn - Maps of the city of Brooklyn, 1855](http://maps.nypl.org/warper/layers/860)
+- [`867`](867): __In progress__
+  - [Brooklyn - Robinson's atlas of the city of Brooklyn, 1886](http://maps.nypl.org/warper/layers/867)
+- [`1046`](1046): __In progress__
+  - [Queens - Atlas of the borough of Queens, 1912](http://maps.nypl.org/warper/layers/1046)
 - [`1138`](1138): __In progress__
+  - [Manhattan - Atlas 107. Vol. 1, 1894](http://maps.nypl.org/warper/layers/1138)
 - [`1142`](1142): __Done__
+  - [Manhattan - Atlas 110. Vol. 2, 1903](http://maps.nypl.org/warper/layers/1142)
 - [`1162`](1162): __Done__
+  - [Queens - Atlas 134. Vol. 2, 1915](http://maps.nypl.org/warper/layers/1162)
