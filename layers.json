@@ -1,1 +1,42 @@
-{"layers":[{"bbox":"-73.998585,40.732527,-73.956785,40.760618","created_at":"2015-06-25T15:22:05Z","description":"Manhattan, Midtown East Side","external_id":1145,"id":1,"name":"Manhattan, Midtown East Side","tilejson":"http://maptiles.nypl.org/1145/1145spec.json","tileset_type":"tms","updated_at":"2016-11-22T17:45:11Z","year":"1890"},{"bbox":"-74.0151918,40.7409242,-73.978301,40.7692628","created_at":"2016-02-23T15:08:56Z","description":"Manhattan, Midtown West Side","external_id":1148,"id":2,"name":"Manhattan, Midtown West Side","tilejson":"http://maptiles.nypl.org/1148/1148spec.json","tileset_type":"tms","updated_at":"2016-11-22T17:45:25Z","year":"1890"},{"bbox":"-74.0229721,40.6957494,-73.9721276,40.729992","created_at":"2016-06-29T18:19:36Z","description":"Manhattan, Downtown","external_id":1138,"id":3,"name":"Manhattan, Downtown","tilejson":"http://maptiles.nypl.org/1138/1138spec.json","tileset_type":"tms","updated_at":"2016-11-22T17:45:42Z","year":"1894"},{"bbox":"-73.9978173,40.7149545,-73.9696758,40.7432424","created_at":"2016-12-15T19:55:49Z","description":"Manhattan, East Village","external_id":1142,"id":4,"name":"Manhattan, East Village","tilejson":"http://maptiles.nypl.org/1142/1142spec.json","tileset_type":"tms","updated_at":"2016-12-15T19:55:49Z","year":"1903"},{"bbox":"-73.9154369,40.6584682,-73.8698296,40.6898282","created_at":"2016-12-21T19:19:26Z","description":"Brooklyn, East New York","external_id":1130,"id":5,"name":"Brooklyn, East New York","tilejson":"http://maptiles.nypl.org/1130/1130spec.json","tileset_type":"tms","updated_at":"2016-12-21T19:19:26Z","year":"1887"},{"bbox":"-73.9427486,40.7510304,-73.8856267,40.7920597","created_at":"2017-01-30T22:22:20Z","description":"Queens, Astoria","external_id":1162,"id":6,"name":"Queens, Astoria","tilejson":"http://maptiles.nypl.org/1162/1162spec.json","tileset_type":"tms","updated_at":"2017-01-30T22:22:20Z","year":"1915"},{"bbox":"-74.04,40.69,-73.93,40.77","created_at":"2015-04-13T18:48:43Z","description":"Maps of the city of New York","external_id":859,"id":859,"name":"Manhattan","tilejson":"https://s3.amazonaws.com/maptiles.nypl.org/859/859spec.json","tileset_type":"tms","updated_at":"2015-04-13T18:48:43Z","year":"1857"},{"bbox":"-74.03,40.63,-73.94,40.71","created_at":"2015-04-13T18:48:48Z","description":"Maps of the city of Brooklyn","external_id":860,"id":860,"name":"Brooklyn","tilejson":"https://s3.amazonaws.com/maptiles.nypl.org/860/860spec.json","tileset_type":"tms","updated_at":"2015-04-13T18:48:48Z","year":"1855"}]}
+[
+  {
+    "id": 859,
+    "year": 1857
+  },
+  {
+    "id": 860,
+    "year": 1855
+  },
+  {
+    "id": 867,
+    "year": 1886
+  },
+  {
+    "id": 1046,
+    "year": 1912
+  },
+  {
+    "id": 1138,
+    "year": 1894
+  },
+  {
+    "id": 1142,
+    "year": 1903
+  },
+  {
+    "id": 1162,
+    "year": 1915
+  },
+  {
+    "id": 1035,
+    "year": 1917
+  },
+  {
+    "id": 883,
+    "year": 1921
+  },
+  {
+    "id": 1157,
+    "year": 1893
+  }
+]
