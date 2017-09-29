@@ -8,10 +8,10 @@ The shapefiles from this repository are used by various parts of the [NYC Space/
 
 __Note: if you're interested in only using the data in this repository (instead of also editing and improving the Shapefiles), it might be easier to use the data published on the website of the [NYC Space/Time Directory](http://spacetime.nypl.org/#data-nyc-streets).__
 
-## Coverage
+## Coverage Map
 
-You can use geojson.io to [view a map](http://geojson.io/#data=data:text/x-url,http%3A%2F%2Fs3.amazonaws.com%2Fspacetime-nypl-org%2Fdatasets%2Fnyc-streets%2Fnyc-streets.geojson
-) of all the streets currently available in this repository.
+To see which parts of New York City are covered by the shapefiles in this repository, please [see this map](http://geojson.io/#data=data:text/x-url,http%3A%2F%2Fs3.amazonaws.com%2Fspacetime-nypl-org%2Fdatasets%2Fnyc-streets%2Fnyc-streets.geojson
+).
 
 ## Contributing
 
