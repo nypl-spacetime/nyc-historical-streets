@@ -15,9 +15,24 @@
     "borough": "Brooklyn"
   },
   {
+    "id": 883,
+    "year": 1921,
+    "borough": "The Bronx"
+  },
+  {
+    "id": 1035,
+    "year": 1917,
+    "borough": "Staten Island"
+  },
+  {
     "id": 1046,
     "year": 1912,
     "borough": "Queens"
+  },
+  {
+    "id": 1130,
+    "year": 1887,
+    "borough": "Brooklyn"
   },
   {
     "id": 1138,
@@ -30,23 +45,13 @@
     "borough": "Manhattan"
   },
   {
-    "id": 1162,
-    "year": 1915,
-    "borough": "Queens"
-  },
-  {
-    "id": 1035,
-    "year": 1917,
-    "borough": "Staten Island"
-  },
-  {
-    "id": 883,
-    "year": 1921,
-    "borough": "The Bronx"
-  },
-  {
     "id": 1157,
     "year": 1893,
     "borough": "Manhattan"
+  },
+  {
+    "id": 1162,
+    "year": 1915,
+    "borough": "Queens"
   }
 ]
