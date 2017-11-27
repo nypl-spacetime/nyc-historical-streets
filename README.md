@@ -32,8 +32,7 @@ To contribute, [fork this repository](https://guides.github.com/activities/forki
 | [`1130`](1130)  | __In progress__ | [Brooklyn - Insurance Maps of New York (1887)](http://maps.nypl.org/warper/layers/1130)
 | [`1138`](1138)  | __In progress__ | [Manhattan - Atlas 107. Vol. 1, 1894](http://maps.nypl.org/warper/layers/1138)
 | [`1142`](1142)  | ✅              | [Manhattan - Atlas 110. Vol. 2, 1903](http://maps.nypl.org/warper/layers/1142)
-| [`1157`](1157)  | __In progress__ | [Manhattan - Washington Heights,
-Insurance maps of the City of New York (1893)](http://maps.nypl.org/warper/layers/1157)
+| [`1157`](1157)  | __In progress__ | [Manhattan - Insurance maps of the City of New York, Washington Heights (1893)](http://maps.nypl.org/warper/layers/1157)
 | [`1162`](1162)  | ✅              | [Queens - Atlas 134. Vol. 2, 1915](http://maps.nypl.org/warper/layers/1162)
 
 ## See Also
