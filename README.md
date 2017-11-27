@@ -35,3 +35,7 @@ To contribute, [fork this repository](https://guides.github.com/activities/forki
 | [`1157`](1157)  | __In progress__ | [Manhattan - Washington Heights,
 Insurance maps of the City of New York (1893)](http://maps.nypl.org/warper/layers/1157)
 | [`1162`](1162)  | ✅              | [Queens - Atlas 134. Vol. 2, 1915](http://maps.nypl.org/warper/layers/1162)
+
+## See Also
+
+- Mauricio Giraldo’s [animation of tracing historical streets](http://mgiraldo.github.io/centerlines/)
